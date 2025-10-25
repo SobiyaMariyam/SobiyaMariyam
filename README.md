@@ -64,7 +64,7 @@ Information Security Intern with hands-on experience in **Vulnerability Assessme
 - **Tech Stack:** Python, OpenCV, MediaPipe, TensorFlow, Flask, React
 - **Features:** Real-time gesture detection, ML model training, speech synthesis
 - **Impact:** Presented at conference, published research paper
-- 🔗 [View Project](#) | 📄 Research Published at Scribium International Online Conference (2025)
+- 📄 Research Published at Scribium International Online Conference (2025)
 
 ### 📏 AI-Powered Measurement System
 **Automated part geometry measurement using computer vision**

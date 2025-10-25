@@ -10,24 +10,6 @@
 
 ---
 
-## 🎯 Current Mission Status
-
-<div align="center">
-
-```ascii
-╔══════════════════════════════════════════════════════════════╗
-║                    🛡️  SECURITY ANALYST                      ║
-║                     Currently Employed                        ║
-║                                                              ║
-║  📍 Location: Cyber Defense Center                          ║
-║  🎯 Mission: Threat Detection & Incident Response          ║
-║  ⏰ Status: Monitoring 24/7 Security Operations            ║
-║  🔍 Focus: Malware Analysis & Vulnerability Assessment      ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
 ## 🔥 Security Specialist Profile
 
 ```python
@@ -104,43 +86,6 @@ class CyberSecuritySpecialist:
 
 ---
 
-## 🎖️ Certifications & Achievements
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-### 🏆 Current Certifications
-```
-🔒 CompTIA Security+ (In Progress)
-🔍 CEH v12 (Certified Ethical Hacker)
-☁️ AWS Security Specialty (Studying)
-🛡️ CISSP Associate (Planned 2024)
-🔧 GCIH (GIAC Certified Incident Handler)
-```
-
-</td>
-<td align="center" width="50%">
-
-### 📈 Professional Metrics
-```
-🎯 Incidents Resolved: 500+
-🔍 Vulnerabilities Found: 150+
-📊 Uptime Maintained: 99.8%
-🛡️ Threats Mitigated: 1200+
-📚 Security Reports Written: 50+
-```
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
 ## 📊 Security Analytics Dashboard
 
 <div align="center">
@@ -191,63 +136,6 @@ graph TB
 </div>
 
 ---
-
-## 🔥 Featured Security Projects
-
-<div align="center">
-
-### 🛡️ Cybersecurity Arsenal Repository
-
-<a href="https://github.com/SobiyaMariyam/CyberSecurity-Toolkit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SobiyaMariyam&repo=CyberSecurity-Toolkit&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00ff41&text_color=00ff41&icon_color=ff6b6b" />
-</a>
-
-<a href="https://github.com/SobiyaMariyam/SIEM-Detection-Rules">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SobiyaMariyam&repo=SIEM-Detection-Rules&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00ff41&text_color=00ff41&icon_color=ff6b6b" />
-</a>
-
-<a href="https://github.com/SobiyaMariyam/Malware-Analysis-Lab">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SobiyaMariyam&repo=Malware-Analysis-Lab&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00ff41&text_color=00ff41&icon_color=ff6b6b" />
-</a>
-
-<a href="https://github.com/SobiyaMariyam/Red-Team-Scripts">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SobiyaMariyam&repo=Red-Team-Scripts&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00ff41&text_color=00ff41&icon_color=ff6b6b" />
-</a>
-
-</div>
-
----
-
-## 🎯 Current Learning Path
-
-<div align="center">
-
-### 📚 2024 Cybersecurity Roadmap
-
-```mermaid
-gantt
-    title Security Specialist Development Timeline
-    dateFormat  YYYY-MM-DD
-    section Certifications
-    CompTIA Security+    :active, sec-plus, 2024-10-01, 2024-12-15
-    AWS Security Specialty :aws-sec, 2024-11-01, 2025-01-30
-    CISSP               :cissp, 2025-02-01, 2025-06-30
-    
-    section Skills Development
-    Advanced Malware Analysis :malware, 2024-10-15, 2024-12-30
-    Cloud Security (Multi-Cloud) :cloud-sec, 2024-11-01, 2025-02-28
-    AI/ML in Cybersecurity :ai-sec, 2025-01-01, 2025-04-30
-    
-    section Projects
-    Custom SIEM Platform :siem-proj, 2024-10-20, 2025-01-15
-    Threat Intelligence Platform :threat-intel, 2025-01-01, 2025-03-31
-    Security Automation Framework :auto-sec, 2025-02-01, 2025-05-30
-```
-
-</div>
-
----
-
 ## 🔒 Security Mindset
 
 <div align="center">
@@ -272,116 +160,11 @@ gantt
 </div>
 
 ---
-
-## 🏆 Security Hall of Fame
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SobiyaMariyam&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="Security Trophies" />
-
-</div>
-
----
-
-## 📡 Secure Communication Channels
-
-<div align="center">
-
-<a href="mailto:sobiya.security@protonmail.com">
-  <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Secure Email" />
-</a>
-
-<a href="https://linkedin.com/in/sobiya-vhora-cybersec" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-
-<a href="https://twitter.com/SobiyaCyberSec" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-</a>
-
-<a href="https://medium.com/@sobiya-cybersecurity" target="_blank">
-  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Security Blog" />
-</a>
-
-### 🔐 PGP Key: `4A3B 5C2D 1E9F 8G7H 6I5J 4K3L 2M1N 0O9P`
-
-</div>
-
----
-
-## 💀 Latest Security Research
-
-<div align="center">
-
-```yaml
-Current_Research:
-  - Topic: "AI-Powered Advanced Persistent Threat Detection"
-    Status: "Active Research"
-    Impact: "Critical Infrastructure Protection"
-    
-  - Topic: "Zero-Day Vulnerability Discovery in IoT Devices"
-    Status: "Responsible Disclosure Phase"
-    Impact: "Consumer Device Security"
-    
-  - Topic: "Behavioral Analytics for Insider Threat Detection"
-    Status: "Beta Testing"
-    Impact: "Corporate Security Enhancement"
-
-Publications:
-  - "Modern SIEM Architecture: Beyond Log Analysis"
-  - "Cloud Security Posture Management Best Practices"
-  - "Threat Hunting Methodologies for SOC Teams"
-```
-
-</div>
-
----
-
-## 🎮 Capture The Flag Achievements
-
-<div align="center">
-
-| Platform | Rank | Points | Specialization |
-|:--------:|:----:|:------:|:--------------:|
-| 🏴‍☠️ HackTheBox | Elite Hacker | 15,420 | Web App Security |
-| 🎯 TryHackMe | Top 5% | 12,850 | Network Penetration |
-| 🔍 PicoCTF | Champion | 8,950 | Digital Forensics |
-| ⚡ OverTheWire | Bandit Complete | 7,200 | Linux Security |
-
-</div>
-
----
-
 ## 🚨 Threat Intelligence Quote
 
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=In%20cybersecurity,%20the%20only%20constant%20is%20change.%20Adapt%20or%20be%20compromised.&author=Sobiya%20Vhora" alt="Security Quote" />
-
-</div>
-
----
-
-## 🔥 Security Operations Center
-
-<div align="center">
-
-```ascii
-┌─────────────────────────────────────────────────────────────────┐
-│                    🛡️ SOC ANALYST DASHBOARD 🛡️                   │
-├─────────────────────────────────────────────────────────────────┤
-│  📊 Today's Metrics:                                           │
-│  ├── 🚨 Alerts Investigated: 47                               │
-│  ├── 🔍 Incidents Resolved: 12                                │
-│  ├── 🎯 Threats Neutralized: 8                                │
-│  ├── 📈 False Positives Tuned: 15                             │
-│  └── 🛠️ Custom Rules Created: 3                               │
-│                                                                 │
-│  🎯 Current Focus: Advanced Persistent Threat Hunting          │
-│  ⚡ Status: DEFCON 2 - Elevated Alert Status                  │
-│  🔒 Next: Vulnerability Assessment & Penetration Testing       │
-└─────────────────────────────────────────────────────────────────┘
-```
 
 </div>
 
@@ -393,12 +176,6 @@ Publications:
 
 ### 🔐 "Security is not a product, but a process" - Bruce Schneier
 
-<img src="https://komarev.com/ghpvc/?username=SobiyaMariyam&label=Security%20Clearance%20Level&color=00ff41&style=for-the-badge" alt="Profile Views" />
-
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SobiyaMariyam/SobiyaMariyam/output/snake.svg" alt="Security Breach Simulation" />
-</div>
